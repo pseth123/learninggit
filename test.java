@@ -1,3 +1,5 @@
 class Hello{
-  System.out.print("hello git");
+  public static void main(String[] agr){
+    System.out.print("hello git");
+  }
 }
